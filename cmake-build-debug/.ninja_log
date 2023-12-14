@@ -1,0 +1,13 @@
+# ninja log v5
+0	768	7242855692402066	CMakeFiles/basicComputerProgramming_c__.dir/main.cpp.obj	19646f925688d731
+4	265	7242859577724259	basicComputerProgramming_c__.exe	c5700c52a3e917d9
+1	439	7242869216189897	build.ninja	f0247626dbf6f859
+7	627	7242858678734774	CMakeFiles/basicComputerProgramming_c__.dir/bmimetric.cpp.obj	f2dec0fd0951a6bd
+677	912	7242860475175445	basicComputerProgrammingcpp.exe	925dff9e860bb541
+10	1919	7242867208538538	CMakeFiles/BMIMETRIC.dir/bmimetric.cpp.obj	a2e5443db81ed424
+2	677	7242860472921538	CMakeFiles/basicComputerProgrammingcpp.dir/main.cpp.obj	fd57667b6a2cef26
+1921	2396	7242867213166167	BMIMETRIC.exe	db8f1d312f042e91
+1	2072	7242869283747825	CMakeFiles/BMIIMPERIAL.dir/bmiimperial.cpp.obj	8f11065912f669d
+2073	2371	7242869286689912	BMIIMPERIAL.exe	914834b479e5578b
+7	1490	7242870384700108	CMakeFiles/BMIIMPERIAL.dir/bmiimperial.cpp.obj	8f11065912f669d
+1491	1776	7242870387452711	BMIIMPERIAL.exe	914834b479e5578b

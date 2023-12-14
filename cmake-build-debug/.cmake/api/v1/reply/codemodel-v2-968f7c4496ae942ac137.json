@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "basicComputerProgrammingcpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BMIIMPERIAL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BMIIMPERIAL-Debug-ec43323950f35ddcf26c.json",
+					"name" : "BMIIMPERIAL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BMIMETRIC::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BMIMETRIC-Debug-de25bab4011983dd0082.json",
+					"name" : "BMIMETRIC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "basicComputerProgrammingcpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-basicComputerProgrammingcpp-Debug-0572a9add6abd9369e8d.json",
+					"name" : "basicComputerProgrammingcpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/phbryan/CLionProjects/basicComputerProgramming_c++/cmake-build-debug",
+		"source" : "C:/Users/phbryan/CLionProjects/basicComputerProgramming_c++"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

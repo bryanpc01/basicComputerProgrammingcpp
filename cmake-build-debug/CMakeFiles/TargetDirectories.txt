@@ -1,0 +1,5 @@
+C:/Users/phbryan/CLionProjects/basicComputerProgramming_c++/cmake-build-debug/CMakeFiles/basicComputerProgrammingcpp.dir
+C:/Users/phbryan/CLionProjects/basicComputerProgramming_c++/cmake-build-debug/CMakeFiles/BMIMETRIC.dir
+C:/Users/phbryan/CLionProjects/basicComputerProgramming_c++/cmake-build-debug/CMakeFiles/BMIIMPERIAL.dir
+C:/Users/phbryan/CLionProjects/basicComputerProgramming_c++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/phbryan/CLionProjects/basicComputerProgramming_c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
